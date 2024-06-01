@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@mwanga_aideed" target="blank"><img src="https://img.shields.io/twitter/follow/@mwanga_aideed?logo=twitter&style=for-the-badge" alt="@mwanga_aideed" /></a> </p>
 
-- 🔭 I’m currently working on **blue-tray MIS**
+- 🔭 I’m currently working on **upTime Monitor App**
 
-- 🌱 I’m currently learning **Vue js, Django, Laravel and DevOps**
+- 🌱 I’m currently learning **Node js, Vue js, Django, Laravel and DevOps**
 
 - 💬 Ask me about **React, React-Native**
 
